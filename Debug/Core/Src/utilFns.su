@@ -1,0 +1,3 @@
+../Core/Src/utilFns.c:4:6:Read_inp1Pin	16	static
+../Core/Src/utilFns.c:19:6:Read_inp2Pin	16	static
+../Core/Src/utilFns.c:35:6:MotorDrive	16	static
